@@ -7,4 +7,18 @@
   font-family: "Poppins", sans-serif;
   font-family: "Roboto", sans-serif;
 }
+:root {
+  /* ===========color============ */
+  --body-color: #e4e9f7;
+  --sidebar-color: #fff;
+  --primary-color: #695cfe;
+  --primary-color-light: #f6f5ff;
+  --toggle-color: #ddd;
+  --text-color: #707070;
 
+  /* ===========transition================ */
+  --tran-02: all 0.2s ease;
+  --tran-03: all 0.3s ease;
+  --tran-04: all 0.4s ease;
+  --tran-05: all 0.5s ease;
+}
