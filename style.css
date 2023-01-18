@@ -22,3 +22,19 @@
   --tran-04: all 0.4s ease;
   --tran-05: all 0.5s ease;
 }
+body{
+  height: 100vh;
+  background: var(--body-color);
+}
+.sidebar{
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 250px;
+  background: var(--sidebar-color);
+}
+.sidebar .image-text img{
+  width: 40px;
+  border-radius: 6px;
+}
